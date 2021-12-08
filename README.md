@@ -1,6 +1,6 @@
 ### Olá, tudo bem? 👋
 
-Me chamo Carlos Rodrigo Dantas, tenho 25 anos e sou natural de Curitiba/PR.
+Me chamo Carlos Rodrigo Dantas, tenho 26 anos e sou natural de Curitiba/PR.
 
 Cursando Desenvolvimento Web Full-stack na escola NewTab Academy.
 
