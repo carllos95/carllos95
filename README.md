@@ -1,12 +1,13 @@
-### Olá, tudo bem? 👋
+## Olá! Eu sou o Carlos Dantas. 👋
 
-Me chamo Carlos Rodrigo Dantas, tenho 26 anos e sou natural de Curitiba/PR.
+- :computer: Hoje trabalho com Front-end
+- :blue_book: Estudando ReactJS
 
-Cursando Desenvolvimento Web Full-stack na escola NewTab Academy.
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carllos95&show_icons=true&theme=github_dark&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carllos95&layout=compact&langs_count=16&theme=github_dark">
+</div
 
-Buscando aprimorar meu conhecimento na área de desenvolvimento web, possuo conhecimento intermediário em HTML e CSS, conhecimento básico em JS e React.js. Sou uma pessoa que sempre busca estar em meio a área de tecnologia.
-
-Graduado em Superior de Tecnologia de Desenvolvimento de Jogos. Com essa graduação pude adquirir conhecimento em lógica de programação, conhecimento em metodologias ágeis, como SCRUM e Kamban. Ao longo do curso desenvolvi práticas de trabalho em equipe.
 
 https://carllos95.github.io/cloneAmazon/
 
