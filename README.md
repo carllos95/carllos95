@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Carlos Dantas. 👋
 
-- :computer: Hoje trabalho com Front-end
-- :blue_book: Estudando ReactJS
+- :computer: Front-end Developer
+- :blue_book: ReactJS, NextJS, TailWindCss, Chakra UI.
 
 <div width="100%">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carllos95&show_icons=true&theme=github_dark&count_private=true">
