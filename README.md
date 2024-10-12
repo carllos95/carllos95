@@ -9,12 +9,12 @@
 </div
 
 
-[https://carllos95.github.io/cloneAmazon/](https://github.com/carllos95/NLW-eSports-ignite-web)
+https://github.com/carllos95/NLW-eSports-ignite-web
 
-[https://carllos95.github.io/ProjetoNewTab2-React-AppTransferencia/](https://github.com/carllos95/api-solid-rocketseat)
+https://github.com/carllos95/api-solid-rocketseat
 
-[https://carllos95.github.io/NewTabProjeto1-html-css-js/](https://github.com/carllos95/pet-time-api)
+https://github.com/carllos95/pet-time-api
 
-[https://carllos95.github.io/myPortfolio2/](https://github.com/carllos95/NLW-esports-mobile)
+https://github.com/carllos95/NLW-esports-mobile
 
-[https://zeeckcwb.github.io/hashtagFinder/](https://github.com/carllos95/portfolio)
+https://github.com/carllos95/portfolio
