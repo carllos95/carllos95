@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Carlos Dantas. 👋
 
 - :computer: Front-end Developer
-- :blue_book: ReactJS, NextJS, NodeJs, Typescript, TailWindCss, Chakra UI, Material UI.
+- :blue_book: ReactJS | NextJS | NodeJS | Kotlin | TypeScript | Styled-components | Material UI | Chakra UI | TailwindCSS.
 
 <div width="100%">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carllos95&show_icons=true&theme=github_dark&count_private=true">
